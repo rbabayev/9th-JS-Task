@@ -1,0 +1,14 @@
+#imgData {
+  height: 200px;
+  width: 200px;
+}
+
+* {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 20px;
+  width: 190px;
+}
